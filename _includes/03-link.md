@@ -1,2 +1,2 @@
-[text](https://example.com).
+[text](http://example.com)
 
